@@ -1,3 +1,9 @@
+
+
 <?php
-    echo "Hello world"
+$test = 'test'
 ?>
+
+
+
+<strong><?= $test?></strong>
