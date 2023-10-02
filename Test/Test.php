@@ -2,7 +2,7 @@
 
 
 <?php
-    //calyie test
+    //Cayleigh test
     echo"hallo world";
 ?>
 <?php
