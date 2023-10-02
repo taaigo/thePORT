@@ -6,4 +6,4 @@ $test = 'test'
 
 
 
-<strong><?= $test?></strong>
+<strong style="color: red;"><?= $test?></strong>
