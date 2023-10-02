@@ -7,6 +7,7 @@
 ?>
 <?php
 $test = 'Nawaf test';
+$taigo = 'taigo teast';
 ?>
 
 
